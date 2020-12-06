@@ -20,3 +20,14 @@ https://github.com/klausw/hackerskeyboard
 ![alt text](https://github.com/NoviaDroid/LG-Dual-Screen-IME-Keyboard/blob/main/screencap_aide.png?raw=true)
 ![alt text](https://github.com/NoviaDroid/LG-Dual-Screen-IME-Keyboard/blob/main/screencap.png?raw=true)
  
+How to use:
+
+1.Download and install the apk from the release.
+2.Open the app
+3.Switch to dual screen landscape mode on your phone (G8X or other LG phone supports dual screen).
+4.Put the app you want use IME on main screen.
+5.Put my app on second screen.
+6.Make sure the IME is not show(press backspace to turn it off if already shown), and press "IME DUAL ON" button
+7.Show your IME by click input field on your main screen app.
+
+You'll find your IME is shown on second screen. Reverse the process to disable dual screen IME feature.
