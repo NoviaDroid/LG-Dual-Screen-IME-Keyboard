@@ -1,7 +1,7 @@
 # LG-Dual-Screen-IME-Keyboard
 use LG private api to transport any IME softkeyboard into second screen
 
-LG G8X dual screen is convenient for coding. But the build-in LG keyboard sucks, and other 3rd party soft keyboard IME is not supported dual screen.
+LG G8X dual screen is convenient for coding. But the build-in LG keyboard sucks, and other 3rd party soft keyboard IME is not supported by dual screen.
 
 So I have to hack into LG keyboard and find out the magic private API that can transport any IME into second screen.
 
