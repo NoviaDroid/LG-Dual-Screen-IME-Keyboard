@@ -13,5 +13,9 @@ But you can not call it directly because it is private API and in blacklist, use
 
 the screenshot is the hacker's keyboard on second screen, though buggy, but it works!
 
+hacker's keyboard is opensource,maybe someone can embed this dual screen function into hacker's keyboard!
 
+https://github.com/klausw/hackerskeyboard
+
+![alt text](https://github.com/NoviaDroid/LG-Dual-Screen-IME-Keyboard/blob/main/screencap.png?raw=true)
  
