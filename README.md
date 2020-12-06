@@ -39,3 +39,5 @@ How to use:
 
 
 You'll find your IME is shown on second screen. Reverse the process to disable dual screen IME feature.
+
+You need tweak you 3rd party IME settings to get a better look, already tested Google keyboard and Hacker's keyboard.
