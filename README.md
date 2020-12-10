@@ -17,8 +17,8 @@ hacker's keyboard is opensource,maybe someone can embed this dual screen functio
 
 https://github.com/klausw/hackerskeyboard
 
-![alt text](https://github.com/NoviaDroid/LG-Dual-Screen-IME-Keyboard/blob/main/screencap_aide.png?raw=true)
-![alt text](https://github.com/NoviaDroid/LG-Dual-Screen-IME-Keyboard/blob/main/screencap.png?raw=true)
+![alt text](https://github.com/NoviaDroid/LG-Dual-Screen-IME-Keyboard/blob/main/screenshot.png?raw=true)
+![alt text](https://github.com/NoviaDroid/LG-Dual-Screen-IME-Keyboard/blob/main/full.png?raw=true)
  
 How to use:
 
